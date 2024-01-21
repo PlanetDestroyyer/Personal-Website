@@ -298,4 +298,8 @@ footer p a:hover {
     .social-links a {
         margin: 0 10px;
     }
+
+    .email-text {
+        font-size : 2vw;
+    }
 }
