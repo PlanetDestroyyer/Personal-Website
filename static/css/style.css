@@ -298,8 +298,78 @@ footer p a:hover {
     .social-links a {
         margin: 0 10px;
     }
-
-    .email-text {
-        font-size : 5vw;
+    .head-text h3 {
+        font-size: 2rem; /* Adjust font size */
     }
+
+    #head-text {
+        font-size: 4rem; /* Adjust font size */
+    }
+
+    .bio-txt p {
+        padding: 10px 20px; /* Adjust padding */
+    }
+
+    .what-i-do h2 {
+        margin-top: 20px; /* Adjust margin */
+    }
+
+    .contact-txt {
+        font-size: 1.5rem; /* Adjust font size */
+    }
+
+    .project {
+        padding: 20px; /* Adjust padding */
+    }
+
+    .cards {
+        padding: 20px; /* Adjust padding */
+    }
+
+    .card-title,
+    p {
+        font-size: 1.2rem; /* Adjust font size */
+    }
+
+    .project-text {
+        padding: 20px; /* Adjust padding */
+    }
+
+    .project-list {
+        padding: 20px; /* Adjust padding */
+    }
+
+    .text-what h2 span {
+        padding: 20px; /* Adjust padding */
+    }
+
+    .what-head h2 {
+        padding: 2%; /* Adjust padding */
+        font-size: 1.5rem; /* Adjust font size */
+    }
+
+    .icon li {
+        margin: 10px 0;
+        padding: 0;
+    }
+
+    .icon li p {
+        margin-top: 5%; /* Adjust margin */
+    }
+
+    .txt {
+        font-size: 1.5rem; /* Adjust font size */
+    }
+
+    footer {
+        padding: 20px 5%;
+    }
+
+    .footer-txt {
+        font-size: 1.2rem; /* Adjust font size */
+    }
+}
+    /* .email-text {
+        font-size : 5vw;
+    } */
 }
