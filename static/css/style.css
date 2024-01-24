@@ -369,7 +369,10 @@ footer p a:hover {
         font-size: 1.2rem; /* Adjust font size */
 
 }
-    /* .email-text {
+    #small-screen{
+        margin-left: 	2.9375rem;
+    }
+    /* .email-text {    
         font-size : 5vw;
     } */
 }
